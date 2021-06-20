@@ -1,0 +1,13 @@
+.game-card {
+    height: 100vh;
+    font-family: 'Open Sans', monospace;
+}
+
+.card-header, .card-footer {
+    background-color: black;
+    color: white;
+}
+
+.card-body {
+    background-color: bisque;
+}
